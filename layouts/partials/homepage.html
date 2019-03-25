@@ -1,0 +1,15 @@
+<div id="main" role="main">
+	{{ partial "sidebar.html" . }}
+	<article class="page">
+		<div class="page_container">
+			<section class="page_content">
+				{{ partial "masthead_nav.html" . }}
+
+				{{ with .Site.GetPage "/about" }}
+					{{ partial "post.html" . }}
+				{{ end }}
+
+			</section>
+		</div>
+	</article>
+</div>
