@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony Grosinger</title>
+    <link>https://grosinger.net/</link>
+    <description>Recent content on Tony Grosinger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; Tony Grosinger 2019</copyright>
+    <lastBuildDate>Thu, 26 Jul 2018 17:44:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://grosinger.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>More filler content</title>
+      <link>https://grosinger.net/blog/more/</link>
+      <pubDate>Thu, 26 Jul 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://grosinger.net/blog/more/</guid>
+      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
+    </item>
+    
+    <item>
+      <title>Another blog post this is</title>
+      <link>https://grosinger.net/blog/second/</link>
+      <pubDate>Wed, 25 Jul 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://grosinger.net/blog/second/</guid>
+      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
+    </item>
+    
+    <item>
+      <title>This is a blog post</title>
+      <link>https://grosinger.net/blog/first/</link>
+      <pubDate>Tue, 24 Jul 2018 17:44:36 -0700</pubDate>
+      
+      <guid>https://grosinger.net/blog/first/</guid>
+      <description>{{ printf &amp;ldquo;%s&amp;rdquo; .ReadingTime}}
+Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus auctor, ex sit amet condimentum placerat, neque dolor facilisis purus, in elementum ex urna at ante. Praesent turpis leo, auctor at justo vel, dignissim imperdiet tellus. Vivamus nec orci luctus, pharetra mauris eget, tristique ligula. Integer elit lorem, blandit ut eros et, efficitur aliquet dui. Aenean sed orci lorem. Nulla facilisi. Cras sollicitudin odio eu erat sollicitudin, sit amet volutpat risus condimentum.</description>
+    </item>
+    
+    <item>
+      <title>1983 Honda Shadow</title>
+      <link>https://grosinger.net/projects/hondashadow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grosinger.net/projects/hondashadow/</guid>
+      <description>Though it has fewer wheels than I imagined my project car would have, it accomplishes the goal just the same. A vehicle that is a joy to ride and easy to repair and tinker with.</description>
+    </item>
+    
+    <item>
+      <title>3D Printing and CNC</title>
+      <link>https://grosinger.net/projects/cnc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grosinger.net/projects/cnc/</guid>
+      <description>CNC machines and 3D printers have historically been inaccessible to the general public because of their cost. However, over the last several years the price has been dropping quickly. I have wanted to explore these technologies for a long time and finally have the opportunity to do so.</description>
+    </item>
+    
+    <item>
+      <title>Evelyn Farmstead</title>
+      <link>https://grosinger.net/projects/evelynfarmstead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grosinger.net/projects/evelynfarmstead/</guid>
+      <description>Over the summer of 2018, Zoë and I moved to Orcas Island. Here we are learning about small-scale farming and sustainable living. In the future we hope to create a community space where we give back to the community that welcomed and supported us.</description>
+    </item>
+    
+  </channel>
+</rss>

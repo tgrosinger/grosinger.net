@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://grosinger.net/blog/more/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/blog/second/</loc>
+    <lastmod>2018-07-25T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/blog/first/</loc>
+    <lastmod>2018-07-24T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/blog/</loc>
+    <lastmod>2018-07-26T17:44:36-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/projects/hondashadow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/projects/cnc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/projects/evelynfarmstead/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://grosinger.net/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
