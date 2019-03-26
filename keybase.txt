@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tgrosinger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://grosinger.net
+  * I am tgrosinger (https://keybase.io/tgrosinger) on keybase.
+  * I have a public key ASBrTJJIMIXXtRtT7Ue84qI0F_EfpKcLUKAifUUUNnffiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010134ea8c10d2e0e99d42ec6f3d86432a74d596b9ec7582f66d4d4d61de6fce54ba0a",
+      "host": "keybase.io",
+      "kid": "01206b4c92483085d7b51b53ed47bce2a23417f11fa4a70b50a0227d45143677df880a",
+      "uid": "25446509accc489abcefa23abf36e500",
+      "username": "tgrosinger"
+    },
+    "merkle_root": {
+      "ctime": 1515012459,
+      "hash": "d6ea7f8260f3df2d243c33361e8f5c121bde3a46cf5036fd7744a2bf9a1adfe90f63028262b1a553128db0cddcf56a6fc764fb341a197101ccada7cd2bddcbab",
+      "hash_meta": "a8679f65c3555555787960886013e20dd0e516df1a3dc2aed3fdb9296b41bca0",
+      "seqno": 1883930
+    },
+    "service": {
+      "hostname": "grosinger.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1515012479,
+  "expire_in": 504576000,
+  "prev": "29da9961b2d86bf10a8de8e1920bb4a6e57dee915eefbcc784ad9797c0069593",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEga0ySSDCF17UbU+1HvOKiNBfxH6SnC1CgIn1FFDZ334gKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMzRlYThjMTBkMmUwZTk5ZDQyZWM2ZjNkODY0MzJhNzRkNTk2YjllYzc1ODJmNjZkNGQ0ZDYxZGU2ZmNlNTRiYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmI0YzkyNDgzMDg1ZDdiNTFiNTNlZDQ3YmNlMmEyMzQxN2YxMWZhNGE3MGI1MGEwMjI3ZDQ1MTQzNjc3ZGY4ODBhIiwidWlkIjoiMjU0NDY1MDlhY2NjNDg5YWJjZWZhMjNhYmYzNmU1MDAiLCJ1c2VybmFtZSI6InRncm9zaW5nZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTUwMTI0NTksImhhc2giOiJkNmVhN2Y4MjYwZjNkZjJkMjQzYzMzMzYxZThmNWMxMjFiZGUzYTQ2Y2Y1MDM2ZmQ3NzQ0YTJiZjlhMWFkZmU5MGY2MzAyODI2MmIxYTU1MzEyOGRiMGNkZGNmNTZhNmZjNzY0ZmIzNDFhMTk3MTAxY2NhZGE3Y2QyYmRkY2JhYiIsImhhc2hfbWV0YSI6ImE4Njc5ZjY1YzM1NTU1NTU3ODc5NjA4ODYwMTNlMjBkZDBlNTE2ZGYxYTNkYzJhZWQzZmRiOTI5NmI0MWJjYTAiLCJzZXFubyI6MTg4MzkzMH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJncm9zaW5nZXIubmV0IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzgifSwiY3RpbWUiOjE1MTUwMTI0NzksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjlkYTk5NjFiMmQ4NmJmMTBhOGRlOGUxOTIwYmI0YTZlNTdkZWU5MTVlZWZiY2M3ODRhZDk3OTdjMDA2OTU5MyIsInNlcW5vIjo1NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECXwEMojl0y7AFGDdHgWehinfKYI+YKDbYQm5WA4tUR/AJlo411ZcILOl09cP9o4k9ymYOoBiG4Jx4f+B+Tyh8NqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgLjHU9RlTRIuj9ki2YrINCmZlKtsDxOle6V+wgkjPcEOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tgrosinger
+
+==================================================================

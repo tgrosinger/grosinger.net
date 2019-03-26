@@ -5,6 +5,8 @@ baseurl = "https://grosinger.net/"
 # Title of your site
 title = "Tony Grosinger"
 
+publishDir = "../."
+
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; Tony Grosinger 2019"
@@ -20,7 +22,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-22479213-1"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
