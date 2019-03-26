@@ -45,6 +45,9 @@ enableGitInfo = false
 
   location = "Orcas Island, WA"
 
+  custom_css = ["customizations.css"]
+
+
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -87,7 +90,7 @@ enableGitInfo = false
     text = "Github"
 
   [[params.social]]
-    icon = "key"
+    icon = "keybase"
     icon_pack = "fa"
     link = "//keybase.io/tgrosinger"
     text = "Keybase"
