@@ -1,5 +1,5 @@
 <div class="post-container">
-    <h1 itemprop="name"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <h1 itemprop="name">{{ .Title }}</h1>
 
     {{ if not .Params.nometadata }}
       {{ partial "post_metadata" (dict "content" . "is_list" 0) }}
