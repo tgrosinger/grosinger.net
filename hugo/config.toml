@@ -9,7 +9,7 @@ publishDir = "../."
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Tony Grosinger 2019"
+copyright = "&copy; Tony Grosinger 2020"
 
 theme = "minimal-academic"
 enableEmoji = true
@@ -22,7 +22,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-22479213-1"
+#googleAnalytics = "UA-22479213-1"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -73,12 +73,6 @@ enableGitInfo = false
 
   # Social links
   # Shown in sidebar, icons from Font Awesome
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "//instagram.com/tgrosinger"
-    text = "Instagram"
-
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
