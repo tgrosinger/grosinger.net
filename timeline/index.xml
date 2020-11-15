@@ -1,0 +1,130 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on Tony Grosinger</title>
+        <link>https://grosinger.net/timeline/</link>
+        <description>Recent content in Timelines on Tony Grosinger</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://grosinger.net/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Joined ExtraHop Networks</title>
+            <link>https://grosinger.net/timeline/joined_extrahop/</link>
+            <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/joined_extrahop/</guid>
+            <description>&lt;p&gt;I am a princiapl software engineer at &lt;a href=&#34;https://www.extrahop.com/&#34;&gt;ExtraHop&lt;/a&gt;.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>I am a princiapl software engineer at <a href="https://www.extrahop.com/">ExtraHop</a>.</p>
+<p>Since 2016 I have been a member of the cloud team and helped transition
+ExtraHop from an on-prem performance company to an industry-leader in
+cloud-native security.</p>
+<p>I help design, implement, and operate the systems which ensure secure
+communication and operation of ExtraHop services.</p>]]></content>
+        </item>
+        
+        <item>
+            <title>Moved to Orcas Island, WA</title>
+            <link>https://grosinger.net/timeline/move_to_orcas/</link>
+            <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/move_to_orcas/</guid>
+            <description></description>
+            <content type="html"><![CDATA[<p>Over the summer of 2018, Zoë and I moved to Orcas Island. Here we are
+learning about small-scale farming and sustainable living. In the future we
+hope to create a community space where we give back to the community that
+welcomed and supported us.</p>
+
+    <img src="/img/evelynfarmstead.jpg"  class="left"  />]]></content>
+        </item>
+        
+        <item>
+            <title>Orcas Food Co-op Board Member</title>
+            <link>https://grosinger.net/timeline/ofc_board/</link>
+            <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/ofc_board/</guid>
+            <description></description>
+            <content type="html"><![CDATA[<p>The Orcas Food Co-op is a local business, providing healthy, local, organic
+food to the community of Orcas Island, and several surrounding islands. As a
+co-op, our goals are set by the membership, and we strive to be an exemplar
+business with livable wages, equitable and affordable access, zero-waste, and
+local products. As we finish off 2020 the co-op is growing faster than ever,
+with several expansion projects underway.</p>
+<p>As a member of the board, the community has elected me to help the co-op
+realize those goals they set. I work closely with the general manager to
+review the financial health of the business, and participate in monthly
+meetings with the management staff to strategize how the co-op can continue
+to better serve our island communities.</p>]]></content>
+        </item>
+        
+        <item>
+            <title>Permaculture Design Certified</title>
+            <link>https://grosinger.net/timeline/pdc/</link>
+            <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/pdc/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Advanced Markdown Tables</title>
+            <link>https://grosinger.net/timeline/advanced_markdown_tables/</link>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/advanced_markdown_tables/</guid>
+            <description>&lt;p&gt;Improved navigation, formatting, manipulation, and even formulas in Markdown tables.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Improved navigation, formatting, manipulation, and even formulas in Markdown tables.</p>
+<p>I am an avid proponent of maintaining a personal wiki, or personal knowledge
+base. This can be as simple as a paper journal, or as complicated as programs
+like DEVONthink and ROAM Research. Over the last 10 years I have experimented
+with nearly a dozen approaches, but the last few have been fairly minor
+tweaks.</p>
+<p>To reduce the wiki churn, I realized I needed a method which could be easily
+converted into any format in the future, was universally supported, and was
+relatively extensible. I tried out <a href="https://orgmode.org/">org-mode</a> for a
+while, but even with Evil mode, I didn&rsquo;t enjoy spending time in emacs.</p>
+<p>I completed what I hope to be my last wiki migration over the 2020 summer,
+switching to Markdown. It&rsquo;s simple, it&rsquo;s used everywhere, and it seems to be
+gaining ground in the personal wiki space rapidly. But leaving org-mode did
+have some shortfalls. It has amazing utilities for editing tables.</p>
+<p>Building off of the excellent library started by
+<a href="https://github.com/susisu">susisu</a>, I have been working on adding advanced
+features to tables in Markdown. With an editor that has this library
+incorporated (often possible though a plugin), Markdown tables become nearly
+as powerful as they are in org-mode. Automatic formatting,
+adding/moving/removing columns, sorting, and now even some spreadsheet
+capabilities are all possible in plain-text Markdown tables.</p>
+<p><img src="https://raw.githubusercontent.com/tgrosinger/advanced-tables-obsidian/main/resources/screenshots/basic-functionality.gif" alt="Basic functionality"></p>
+<p>I hope this enables you to make the jump to a Markdown-based wiki.</p>
+<p>I recommend <a href="https://obsidian.md/">Obsidian</a>.</p>]]></content>
+        </item>
+        
+        <item>
+            <title>Start a Community Makerspace</title>
+            <link>https://grosinger.net/timeline/makerspace/</link>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://grosinger.net/timeline/makerspace/</guid>
+            <description>&lt;p&gt;A space for all to bring their ideas to the real world.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>A space for all to bring their ideas to the real world.</p>
+<p>Everyone should have the opportunity to bring their ideas to life. For some
+people this requires just a computer and a flat work surface. For others
+however, more infrasructure may be required &hellip;like tablesaws, and welders.</p>
+<p>At our home on Orcas Island, I am fortunate enough to have lots of tools and
+space. My question now is how to open those up to my wonderful community in a
+way that is safe and sustainable. I don&rsquo;t have all the answers for this
+project yet, but it is a goal I am working towards.</p>
+<h3 id="inspiration">Inspiration:</h3>
+<ul>
+<li>Makerspaces, such as <a href="https://artisansasylum.com/">Artisan&rsquo;s Asylum</a></li>
+<li>Tool libraries, such as the <a href="https://neseattletoollibrary.org/">NE Seattle Tool Library</a>, where I was on the steering committee while I lived in Seattle.</li>
+<li><a href="https://en.wikipedia.org/wiki/Cooperative">Cooperative organizations</a>, where the business exists only to serve the people.</li>
+<li><a href="https://www.mrmoneymustache.com/hq/">MMM HQ</a> - coworking meets makerspace.</li>
+<li><a href="https://cottagehobbyhouse.com/">Anacortes Cottage Hobby House</a></li>
+</ul>]]></content>
+        </item>
+        
+    </channel>
+</rss>
