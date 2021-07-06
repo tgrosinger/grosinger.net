@@ -6,7 +6,7 @@
     <description>Recent content on Tony Grosinger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://grosinger.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://grosinger.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Joined ExtraHop Networks</title>
       <link>https://grosinger.net/timeline/joined_extrahop/</link>
@@ -41,6 +41,16 @@
       
       <guid>https://grosinger.net/timeline/pdc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Obsidian.md Plugins</title>
+      <link>https://grosinger.net/timeline/obsidian_plugins/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://grosinger.net/timeline/obsidian_plugins/</guid>
+      <description>&lt;p&gt;Several plugins for &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. See
+&lt;a href=&#34;https://grosinger.dev&#34;&gt;grosinger.dev&lt;/a&gt; for more details.&lt;/p&gt;</description>
     </item>
     
     <item>
